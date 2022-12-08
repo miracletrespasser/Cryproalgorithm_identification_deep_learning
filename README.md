@@ -1,1 +1,2 @@
 # Cryproalgorithm_identification_deep_learning
+#Sample residual neural network implementation
